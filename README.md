@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+In my research, I analyze hemodynamic waveforms of ICU and surgical patients to inform/improve the hemodynamic managament of those patients.
 <!--
 **simonTVistisen/simonTVistisen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
